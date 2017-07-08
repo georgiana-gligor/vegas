@@ -1,0 +1,17 @@
+{
+    "name": "georgiana-gligor/vegas",
+    "version": "2.4.0",
+    "description": "Shim for Vegas - Fullscreen Backgrounds and Slideshows.",
+    "homepage": "http://vegas.jaysalvat.com",
+    "author": "Jay Salvat",
+    "license": "MIT",
+    "keywords": [
+        "background",
+        "slideshow",
+        "fullscreen",
+        "vegas",
+        "jquery-plugin",
+        "jquery",
+        "zepto"
+    ]
+}
